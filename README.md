@@ -12,7 +12,7 @@
 - 💻 Icoming technology intern at Ensemble Health
 - 👨‍🏫 TA for *Object-Oriented Programming in Java*
 - 🏋️‍♂️ Building: A **gym tracker app** & updating my **personal website**
-- 🌱 Learning: Rust 🦀, Solana ⚡, system design, & cloud architecture ☁️
+- 🌱 Learning: Always learning something new 
 - 💡 Interests: DevTools, HealthTech, Automation
 - 🤝 Open to collabs on cool side projects or hackathons
 

@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 CS @ *Virginia Commonwealth University* (Software Engineering Concentration)
+- 🎓 CS with a minor in Artificial Intelligence @ *Virginia Commonwealth University* (Data Science Concentration)
 - 💻 Icoming technology intern at Ensemble Health
 - 👨‍🏫 TA for *Object-Oriented Programming in Java*
 - 🏋️‍♂️ Building: A **gym tracker app** & updating my **personal website**

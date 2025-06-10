@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🎓 CS with a minor in Artificial Intelligence @ *Virginia Commonwealth University* (Data Science Concentration)
-- 💻 Incoming Data Engineer intern at Ensemble Health
+- 💻 Incoming Software Engineer intern at Ensemble Health
 - 👨‍🏫 TA for *Object-Oriented Programming in Java*
 - 🏋️‍♂️ Building: A **gym tracker app** & updating my **personal website**
 - 🌱 Learning: Always learning something new 

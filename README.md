@@ -42,7 +42,7 @@
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn]((https://www.linkedin.com/in/jason-gonzalez-/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/jason-gonzalez-/)
 - 🌐 [Portfolio](https://jasgonzalez.github.io/personalWebsite/)
 - 📬 jegonzalez1111@gmail.com
 

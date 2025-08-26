@@ -42,7 +42,7 @@
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/jasgonzalez)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jasgonzalez-)
 - 🌐 [Portfolio](https://jasgonzalez.github.io/personalWebsite/)
 - 📬 jegonzalez1111@gmail.com
 
